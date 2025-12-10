@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "jtggenterprise",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ffee4044-f698-49da-989a-220fc912edbb",
+			"database_name": "JTGG"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
